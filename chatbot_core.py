@@ -167,6 +167,3 @@ def generate_chatbot_reply(user_input, previous_messages):
         reply = "⚠️ Sorry, something went wrong. Please try again later."
 
     return reply, sentiment, confidence
-
-
-
